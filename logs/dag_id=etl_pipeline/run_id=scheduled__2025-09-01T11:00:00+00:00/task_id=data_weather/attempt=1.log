@@ -1,0 +1,17 @@
+{"timestamp":"2025-09-01T11:15:50.313926","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-09-01T11:15:50.314349","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-09-01T11:15:51.264231Z","level":"info","event":"WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T11:15:52.348830Z","level":"error","event":"25/09/01 11:15:52 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"task"}
+{"timestamp":"2025-09-01T11:15:52.582129Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"task"}
+{"timestamp":"2025-09-01T11:15:52.582606Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"task"}
+{"timestamp":"2025-09-01T11:15:57.448353Z","level":"info","event":"Iceberg SparkCatalog OK.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T11:15:57.789088Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T11:15:57.789213Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T11:15:57.789255Z","level":"info","event":"Current task name:data_weather","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T11:15:57.789292Z","level":"info","event":"Dag name:etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T11:15:57.957835Z","level":"info","event":"Dữ liệu đã lưu: weather_data.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T11:15:57.958421","level":"info","event":"Done. Returned value was: weather_data.json","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-09-01T11:15:57.958624","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('019904fd-8712-76a6-9035-aa4b69a42777'), task_id='data_weather', dag_id='etl_pipeline', run_id='scheduled__2025-09-01T11:00:00+00:00', try_number=1, map_index=-1, hostname='e9121ca83f35', context_carrier={}, task=<Task(PythonOperator): data_weather>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=1, start_date=datetime.datetime(2025, 9, 1, 11, 15, 48, 623696, tzinfo=TzInfo(UTC)), end_date=None, is_mapped=False)","logger":"task"}
+{"timestamp":"2025-09-01T11:15:57.997394Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T11:15:57.997846Z","level":"info","event":" Previous state of the Task instance: running","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T11:15:57.997958Z","level":"info","event":"Task operator:<Task(PythonOperator): data_weather>","chan":"stdout","logger":"task"}

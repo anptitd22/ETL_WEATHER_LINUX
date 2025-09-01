@@ -1,0 +1,47 @@
+{"timestamp":"2025-08-31T19:01:28.449270","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-08-31T19:01:28.449944","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-31T19:01:29.189211Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:31.161105Z","level":"error","event":"25/08/31 19:01:31 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:31.454738Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:31.455033Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:31.455108Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.157647Z","level":"error","event":"25/08/31 19:01:35 WARN SparkSession: Cannot use org.apache.iceberg.spark.extensions.IcebergSparkSessionExtensions to configure session extensions.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.158046Z","level":"error","event":"java.lang.ClassNotFoundException: org.apache.iceberg.spark.extensions.IcebergSparkSessionExtensions","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.158195Z","level":"error","event":"\tat java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.158269Z","level":"error","event":"\tat java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:592)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.158347Z","level":"error","event":"\tat java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.158408Z","level":"error","event":"\tat java.base/java.lang.Class.forName0(Native Method)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.158467Z","level":"error","event":"\tat java.base/java.lang.Class.forName(Class.java:467)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.158524Z","level":"error","event":"\tat org.apache.spark.util.SparkClassUtils.classForName(SparkClassUtils.scala:41)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.158581Z","level":"error","event":"\tat org.apache.spark.util.SparkClassUtils.classForName$(SparkClassUtils.scala:36)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.158639Z","level":"error","event":"\tat org.apache.spark.util.Utils$.classForName(Utils.scala:99)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.158721Z","level":"error","event":"\tat org.apache.spark.sql.classic.SparkSession$.$anonfun$applyExtensions$2(SparkSession.scala:1056)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.158820Z","level":"error","event":"\tat org.apache.spark.sql.classic.SparkSession$.$anonfun$applyExtensions$2$adapted(SparkSession.scala:1054)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.158921Z","level":"error","event":"\tat scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.159015Z","level":"error","event":"\tat scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.159120Z","level":"error","event":"\tat scala.collection.AbstractIterable.foreach(Iterable.scala:935)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.159227Z","level":"error","event":"\tat org.apache.spark.sql.classic.SparkSession$.org$apache$spark$sql$classic$SparkSession$$applyExtensions(SparkSession.scala:1054)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.159399Z","level":"error","event":"\tat org.apache.spark.sql.classic.SparkSession$.applyAndLoadExtensions(SparkSession.scala:1038)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.159620Z","level":"error","event":"\tat org.apache.spark.sql.classic.SparkSession.<init>(SparkSession.scala:116)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.159739Z","level":"error","event":"\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.159847Z","level":"error","event":"\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.159956Z","level":"error","event":"\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.160062Z","level":"error","event":"\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.160160Z","level":"error","event":"\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.160283Z","level":"error","event":"\tat py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:247)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.160416Z","level":"error","event":"\tat py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.160514Z","level":"error","event":"\tat py4j.Gateway.invoke(Gateway.java:238)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.160582Z","level":"error","event":"\tat py4j.commands.ConstructorCommand.invokeConstructor(ConstructorCommand.java:80)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.160640Z","level":"error","event":"\tat py4j.commands.ConstructorCommand.execute(ConstructorCommand.java:69)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.160699Z","level":"error","event":"\tat py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:184)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.160753Z","level":"error","event":"\tat py4j.ClientServerConnection.run(ClientServerConnection.java:108)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:35.160808Z","level":"error","event":"\tat java.base/java.lang.Thread.run(Thread.java:840)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T19:01:38.544590Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T19:01:38.544950Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T19:01:38.545114Z","level":"info","event":"Current task name:data_mino","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T19:01:38.545252Z","level":"info","event":"Dag name:etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T19:01:38.924273Z","level":"info","event":"Upload thành công: /opt/airflow/dataset/weather_data.json lên bucket weather-data","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T19:01:38.926131","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-08-31T19:01:38.950136Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T19:01:38.950394Z","level":"info","event":" Previous state of the Task instance: running","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T19:01:38.950532Z","level":"info","event":"Task operator:<Task(PythonOperator): data_mino>","chan":"stdout","logger":"task"}

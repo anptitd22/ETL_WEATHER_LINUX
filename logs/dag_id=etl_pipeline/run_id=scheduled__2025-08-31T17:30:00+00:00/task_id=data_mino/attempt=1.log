@@ -1,0 +1,177 @@
+{"timestamp":"2025-08-31T17:36:46.077088","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-08-31T17:36:46.077468","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-31T17:36:46.381795Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:36:47.371186Z","level":"error","event":"25/08/31 17:36:47 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:36:47.506227Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:36:47.506515Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:36:47.506598Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:36:51.052612Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:36:51.052763Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:36:51.052825Z","level":"info","event":"Current task name:data_mino","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:36:51.052879Z","level":"info","event":"Dag name:etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:36:51.245948Z","level":"info","event":"Upload thành công: /opt/airflow/dataset/weather_data.json lên bucket weather-data","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:36:51.253607Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:36:51.253711Z","level":"info","event":" Previous state of the Task instance: running","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:36:51.253747Z","level":"info","event":"Task operator:<Task(PythonOperator): data_mino>","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:36:51.246586","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-08-31T17:58:07.960478","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-08-31T17:58:07.961068","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-31T17:58:08.551760Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:10.827722Z","level":"error","event":"25/08/31 17:58:10 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.093760Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.098957Z","level":"error","event":"25/08/31 17:58:11 WARN DependencyUtils: Local jar /opt/spark/jars/iceberg-spark-runtime-4.0_2.13-1.9.2.jar does not exist, skipping.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.100100Z","level":"error","event":"25/08/31 17:58:11 WARN DependencyUtils: Local jar /opt/spark/jars/iceberg-aws-bundle-1.9.2.jar does not exist, skipping.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.402465Z","level":"error","event":"25/08/31 17:58:11 INFO SparkContext: Running Spark version 4.0.0","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.413396Z","level":"error","event":"25/08/31 17:58:11 INFO SparkContext: OS info Linux, 6.8.0-79-generic, amd64","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.416356Z","level":"error","event":"25/08/31 17:58:11 INFO SparkContext: Java version 17.0.16","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.495457Z","level":"error","event":"25/08/31 17:58:11 INFO ResourceUtils: ==============================================================","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.495735Z","level":"error","event":"25/08/31 17:58:11 INFO ResourceUtils: No custom resources configured for spark.driver.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.497153Z","level":"error","event":"25/08/31 17:58:11 INFO ResourceUtils: ==============================================================","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.501122Z","level":"error","event":"25/08/31 17:58:11 INFO SparkContext: Submitted application: BAITEST","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.569987Z","level":"error","event":"25/08/31 17:58:11 INFO ResourceProfile: Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.579850Z","level":"error","event":"25/08/31 17:58:11 INFO ResourceProfile: Limiting resource is cpu","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.584025Z","level":"error","event":"25/08/31 17:58:11 INFO ResourceProfileManager: Added ResourceProfile id: 0","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.706281Z","level":"error","event":"25/08/31 17:58:11 INFO SecurityManager: Changing view acls to: airflow","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.709827Z","level":"error","event":"25/08/31 17:58:11 INFO SecurityManager: Changing modify acls to: airflow","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.711875Z","level":"error","event":"25/08/31 17:58:11 INFO SecurityManager: Changing view acls groups to: airflow","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.713533Z","level":"error","event":"25/08/31 17:58:11 INFO SecurityManager: Changing modify acls groups to: airflow","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:11.724939Z","level":"error","event":"25/08/31 17:58:11 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: airflow groups with view permissions: EMPTY; users with modify permissions: airflow; groups with modify permissions: EMPTY; RPC SSL disabled","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.088584Z","level":"error","event":"25/08/31 17:58:12 INFO Utils: Successfully started service 'sparkDriver' on port 40997.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.115505Z","level":"error","event":"25/08/31 17:58:12 INFO SparkEnv: Registering MapOutputTracker","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.127598Z","level":"error","event":"25/08/31 17:58:12 INFO SparkEnv: Registering BlockManagerMaster","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.145616Z","level":"error","event":"25/08/31 17:58:12 INFO BlockManagerMasterEndpoint: Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.146531Z","level":"error","event":"25/08/31 17:58:12 INFO BlockManagerMasterEndpoint: BlockManagerMasterEndpoint up","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.151627Z","level":"error","event":"25/08/31 17:58:12 INFO SparkEnv: Registering BlockManagerMasterHeartbeat","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.170515Z","level":"error","event":"25/08/31 17:58:12 INFO DiskBlockManager: Created local directory at /tmp/blockmgr-a45ff904-89a2-4a43-87e7-1289cf5e67d2","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.212816Z","level":"error","event":"25/08/31 17:58:12 INFO SparkEnv: Registering OutputCommitCoordinator","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.568110Z","level":"error","event":"25/08/31 17:58:12 INFO JettyUtils: Start Jetty 0.0.0.0:4040 for SparkUI","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.757656Z","level":"error","event":"25/08/31 17:58:12 INFO Utils: Successfully started service 'SparkUI' on port 4040.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.816337Z","level":"error","event":"25/08/31 17:58:12 INFO SparkContext: Added JAR /opt/spark/jars/hadoop-aws-3.3.6.jar at spark://29b33b186198:40997/jars/hadoop-aws-3.3.6.jar with timestamp 1756663091389","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.817018Z","level":"error","event":"25/08/31 17:58:12 INFO SparkContext: Added JAR /opt/spark/jars/aws-java-sdk-bundle-1.12.787.jar at spark://29b33b186198:40997/jars/aws-java-sdk-bundle-1.12.787.jar with timestamp 1756663091389","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.817505Z","level":"error","event":"25/08/31 17:58:12 INFO SparkContext: Added JAR /opt/spark/jars/ojdbc11.jar at spark://29b33b186198:40997/jars/ojdbc11.jar with timestamp 1756663091389","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.822015Z","level":"error","event":"25/08/31 17:58:12 ERROR SparkContext: Failed to add /opt/spark/jars/iceberg-spark-runtime-4.0_2.13-1.9.2.jar to Spark environment","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.822388Z","level":"error","event":"java.io.FileNotFoundException: Jar /opt/spark/jars/iceberg-spark-runtime-4.0_2.13-1.9.2.jar not found","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.822488Z","level":"error","event":"\tat org.apache.spark.SparkContext.addLocalJarFile$1(SparkContext.scala:2174)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.822554Z","level":"error","event":"\tat org.apache.spark.SparkContext.addJar(SparkContext.scala:2230)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.822614Z","level":"error","event":"\tat org.apache.spark.SparkContext.$anonfun$new$15(SparkContext.scala:538)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.822674Z","level":"error","event":"\tat org.apache.spark.SparkContext.$anonfun$new$15$adapted(SparkContext.scala:538)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.822732Z","level":"error","event":"\tat scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.822791Z","level":"error","event":"\tat scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.822848Z","level":"error","event":"\tat scala.collection.AbstractIterable.foreach(Iterable.scala:935)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.822913Z","level":"error","event":"\tat org.apache.spark.SparkContext.<init>(SparkContext.scala:538)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.822970Z","level":"error","event":"\tat org.apache.spark.api.java.JavaSparkContext.<init>(JavaSparkContext.scala:59)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.823027Z","level":"error","event":"\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.823088Z","level":"error","event":"\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.823144Z","level":"error","event":"\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.823232Z","level":"error","event":"\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.823336Z","level":"error","event":"\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.823430Z","level":"error","event":"\tat py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:247)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.823497Z","level":"error","event":"\tat py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.823558Z","level":"error","event":"\tat py4j.Gateway.invoke(Gateway.java:238)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.823614Z","level":"error","event":"\tat py4j.commands.ConstructorCommand.invokeConstructor(ConstructorCommand.java:80)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.823667Z","level":"error","event":"\tat py4j.commands.ConstructorCommand.execute(ConstructorCommand.java:69)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.823771Z","level":"error","event":"\tat py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:184)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.823830Z","level":"error","event":"\tat py4j.ClientServerConnection.run(ClientServerConnection.java:108)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.823882Z","level":"error","event":"\tat java.base/java.lang.Thread.run(Thread.java:840)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.824184Z","level":"error","event":"25/08/31 17:58:12 ERROR SparkContext: Failed to add /opt/spark/jars/iceberg-aws-bundle-1.9.2.jar to Spark environment","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.824280Z","level":"error","event":"java.io.FileNotFoundException: Jar /opt/spark/jars/iceberg-aws-bundle-1.9.2.jar not found","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.824371Z","level":"error","event":"\tat org.apache.spark.SparkContext.addLocalJarFile$1(SparkContext.scala:2174)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.824425Z","level":"error","event":"\tat org.apache.spark.SparkContext.addJar(SparkContext.scala:2230)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.824482Z","level":"error","event":"\tat org.apache.spark.SparkContext.$anonfun$new$15(SparkContext.scala:538)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.824578Z","level":"error","event":"\tat org.apache.spark.SparkContext.$anonfun$new$15$adapted(SparkContext.scala:538)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.824633Z","level":"error","event":"\tat scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.824686Z","level":"error","event":"\tat scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.824735Z","level":"error","event":"\tat scala.collection.AbstractIterable.foreach(Iterable.scala:935)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.824783Z","level":"error","event":"\tat org.apache.spark.SparkContext.<init>(SparkContext.scala:538)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.824838Z","level":"error","event":"\tat org.apache.spark.api.java.JavaSparkContext.<init>(JavaSparkContext.scala:59)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.824892Z","level":"error","event":"\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.825025Z","level":"error","event":"\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.825118Z","level":"error","event":"\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.825177Z","level":"error","event":"\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.825227Z","level":"error","event":"\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.825275Z","level":"error","event":"\tat py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:247)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.825353Z","level":"error","event":"\tat py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.825401Z","level":"error","event":"\tat py4j.Gateway.invoke(Gateway.java:238)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.825454Z","level":"error","event":"\tat py4j.commands.ConstructorCommand.invokeConstructor(ConstructorCommand.java:80)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.825503Z","level":"error","event":"\tat py4j.commands.ConstructorCommand.execute(ConstructorCommand.java:69)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.825555Z","level":"error","event":"\tat py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:184)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.825609Z","level":"error","event":"\tat py4j.ClientServerConnection.run(ClientServerConnection.java:108)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.825658Z","level":"error","event":"\tat java.base/java.lang.Thread.run(Thread.java:840)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.862942Z","level":"error","event":"25/08/31 17:58:12 INFO SecurityManager: Changing view acls to: airflow","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.863350Z","level":"error","event":"25/08/31 17:58:12 INFO SecurityManager: Changing modify acls to: airflow","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.863508Z","level":"error","event":"25/08/31 17:58:12 INFO SecurityManager: Changing view acls groups to: airflow","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.863582Z","level":"error","event":"25/08/31 17:58:12 INFO SecurityManager: Changing modify acls groups to: airflow","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:12.863717Z","level":"error","event":"25/08/31 17:58:12 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: airflow groups with view permissions: EMPTY; users with modify permissions: airflow; groups with modify permissions: EMPTY; RPC SSL disabled","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:13.061719Z","level":"error","event":"25/08/31 17:58:13 INFO Executor: Starting executor ID driver on host 29b33b186198","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:13.075771Z","level":"error","event":"25/08/31 17:58:13 INFO Executor: OS info Linux, 6.8.0-79-generic, amd64","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:13.075997Z","level":"error","event":"25/08/31 17:58:13 INFO Executor: Java version 17.0.16","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:13.078601Z","level":"error","event":"25/08/31 17:58:13 INFO Executor: Starting executor with user classpath (userClassPathFirst = false): 'file:/opt/spark/jars/ojdbc11.jar,file:/opt/airflow/ojdbc11.jar'","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:13.084344Z","level":"error","event":"25/08/31 17:58:13 INFO Executor: Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@3723e8fd for default.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:13.097535Z","level":"error","event":"25/08/31 17:58:13 INFO Executor: Fetching spark://29b33b186198:40997/jars/aws-java-sdk-bundle-1.12.787.jar with timestamp 1756663091389","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:13.177516Z","level":"error","event":"25/08/31 17:58:13 INFO TransportClientFactory: Successfully created connection to 29b33b186198/172.18.0.12:40997 after 40 ms (0 ms spent in bootstraps)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:13.185767Z","level":"error","event":"25/08/31 17:58:13 INFO Utils: Fetching spark://29b33b186198:40997/jars/aws-java-sdk-bundle-1.12.787.jar to /tmp/spark-8577a836-86ad-40ca-8908-bdae5d525977/userFiles-01720fac-e350-4c38-bda3-e5b4f76b39c2/fetchFileTemp1263888964386258962.tmp","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:14.682602Z","level":"error","event":"25/08/31 17:58:14 INFO Executor: Adding file:/tmp/spark-8577a836-86ad-40ca-8908-bdae5d525977/userFiles-01720fac-e350-4c38-bda3-e5b4f76b39c2/aws-java-sdk-bundle-1.12.787.jar to class loader default","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:14.683085Z","level":"error","event":"25/08/31 17:58:14 INFO Executor: Fetching spark://29b33b186198:40997/jars/hadoop-aws-3.3.6.jar with timestamp 1756663091389","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:14.684283Z","level":"error","event":"25/08/31 17:58:14 INFO Utils: Fetching spark://29b33b186198:40997/jars/hadoop-aws-3.3.6.jar to /tmp/spark-8577a836-86ad-40ca-8908-bdae5d525977/userFiles-01720fac-e350-4c38-bda3-e5b4f76b39c2/fetchFileTemp16382273052861764682.tmp","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:14.694444Z","level":"error","event":"25/08/31 17:58:14 INFO Executor: Adding file:/tmp/spark-8577a836-86ad-40ca-8908-bdae5d525977/userFiles-01720fac-e350-4c38-bda3-e5b4f76b39c2/hadoop-aws-3.3.6.jar to class loader default","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:14.707714Z","level":"error","event":"25/08/31 17:58:14 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 33525.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:14.708040Z","level":"error","event":"25/08/31 17:58:14 INFO NettyBlockTransferService: Server created on 29b33b186198:33525","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:14.713361Z","level":"error","event":"25/08/31 17:58:14 INFO BlockManager: Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:14.745513Z","level":"error","event":"25/08/31 17:58:14 INFO BlockManagerMaster: Registering BlockManager BlockManagerId(driver, 29b33b186198, 33525, None)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:14.761375Z","level":"error","event":"25/08/31 17:58:14 INFO BlockManagerMasterEndpoint: Registering block manager 29b33b186198:33525 with 434.4 MiB RAM, BlockManagerId(driver, 29b33b186198, 33525, None)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:14.767932Z","level":"error","event":"25/08/31 17:58:14 INFO BlockManagerMaster: Registered BlockManager BlockManagerId(driver, 29b33b186198, 33525, None)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:14.772439Z","level":"error","event":"25/08/31 17:58:14 INFO BlockManager: Initialized BlockManager: BlockManagerId(driver, 29b33b186198, 33525, None)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.737377Z","level":"error","event":"25/08/31 17:58:15 WARN SparkSession: Cannot use org.apache.iceberg.spark.extensions.IcebergSparkSessionExtensions to configure session extensions.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.737670Z","level":"error","event":"java.lang.ClassNotFoundException: org.apache.iceberg.spark.extensions.IcebergSparkSessionExtensions","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.737775Z","level":"error","event":"\tat java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.737835Z","level":"error","event":"\tat java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:592)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.737894Z","level":"error","event":"\tat java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.737949Z","level":"error","event":"\tat java.base/java.lang.Class.forName0(Native Method)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738009Z","level":"error","event":"\tat java.base/java.lang.Class.forName(Class.java:467)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738062Z","level":"error","event":"\tat org.apache.spark.util.SparkClassUtils.classForName(SparkClassUtils.scala:41)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738115Z","level":"error","event":"\tat org.apache.spark.util.SparkClassUtils.classForName$(SparkClassUtils.scala:36)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738168Z","level":"error","event":"\tat org.apache.spark.util.Utils$.classForName(Utils.scala:99)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738217Z","level":"error","event":"\tat org.apache.spark.sql.classic.SparkSession$.$anonfun$applyExtensions$2(SparkSession.scala:1056)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738272Z","level":"error","event":"\tat org.apache.spark.sql.classic.SparkSession$.$anonfun$applyExtensions$2$adapted(SparkSession.scala:1054)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738340Z","level":"error","event":"\tat scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738390Z","level":"error","event":"\tat scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738439Z","level":"error","event":"\tat scala.collection.AbstractIterable.foreach(Iterable.scala:935)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738486Z","level":"error","event":"\tat org.apache.spark.sql.classic.SparkSession$.org$apache$spark$sql$classic$SparkSession$$applyExtensions(SparkSession.scala:1054)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738532Z","level":"error","event":"\tat org.apache.spark.sql.classic.SparkSession$.applyAndLoadExtensions(SparkSession.scala:1038)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738571Z","level":"error","event":"\tat org.apache.spark.sql.classic.SparkSession.<init>(SparkSession.scala:116)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738602Z","level":"error","event":"\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738631Z","level":"error","event":"\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738662Z","level":"error","event":"\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738692Z","level":"error","event":"\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738720Z","level":"error","event":"\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738751Z","level":"error","event":"\tat py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:247)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738795Z","level":"error","event":"\tat py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738826Z","level":"error","event":"\tat py4j.Gateway.invoke(Gateway.java:238)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738857Z","level":"error","event":"\tat py4j.commands.ConstructorCommand.invokeConstructor(ConstructorCommand.java:80)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738886Z","level":"error","event":"\tat py4j.commands.ConstructorCommand.execute(ConstructorCommand.java:69)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738918Z","level":"error","event":"\tat py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:184)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738949Z","level":"error","event":"\tat py4j.ClientServerConnection.run(ClientServerConnection.java:108)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:15.738980Z","level":"error","event":"\tat java.base/java.lang.Thread.run(Thread.java:840)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.714013Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.714206Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.714258Z","level":"info","event":"Current task name:data_mino","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.714318Z","level":"info","event":"Dag name:etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.714364Z","level":"info","event":"Upload thành công: /opt/airflow/dataset/weather_data.json lên bucket weather-data","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.714408Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.714447Z","level":"info","event":" Previous state of the Task instance: running","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.714488Z","level":"info","event":"Task operator:<Task(PythonOperator): data_mino>","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.695692","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-08-31T17:58:18.722025Z","level":"error","event":"25/08/31 17:58:18 INFO SparkContext: Invoking stop() from shutdown hook","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.724076Z","level":"error","event":"25/08/31 17:58:18 INFO SparkContext: SparkContext is stopping with exitCode 0 from run at Executors.java:539.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.731834Z","level":"error","event":"25/08/31 17:58:18 INFO SparkUI: Stopped Spark web UI at http://29b33b186198:4040","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.739961Z","level":"error","event":"25/08/31 17:58:18 INFO MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.760452Z","level":"error","event":"25/08/31 17:58:18 INFO MemoryStore: MemoryStore started with capacity 434.4 MiB","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.761167Z","level":"error","event":"25/08/31 17:58:18 INFO MemoryStore: MemoryStore cleared","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.761454Z","level":"error","event":"25/08/31 17:58:18 INFO BlockManager: BlockManager stopped","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.767103Z","level":"error","event":"25/08/31 17:58:18 INFO BlockManagerMaster: BlockManagerMaster stopped","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.769450Z","level":"error","event":"25/08/31 17:58:18 INFO OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.814530Z","level":"error","event":"25/08/31 17:58:18 INFO SparkContext: Successfully stopped SparkContext","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.814755Z","level":"error","event":"25/08/31 17:58:18 INFO ShutdownHookManager: Shutdown hook called","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.815230Z","level":"error","event":"25/08/31 17:58:18 INFO ShutdownHookManager: Deleting directory /tmp/spark-8577a836-86ad-40ca-8908-bdae5d525977/pyspark-e0191d97-732e-4f78-a0e2-2553afd8220b","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.818889Z","level":"error","event":"25/08/31 17:58:18 INFO ShutdownHookManager: Deleting directory /tmp/spark-0356c7a2-2a9b-4c8d-b58f-f9ff76a96a78","chan":"stderr","logger":"task"}
+{"timestamp":"2025-08-31T17:58:18.822249Z","level":"error","event":"25/08/31 17:58:18 INFO ShutdownHookManager: Deleting directory /tmp/spark-8577a836-86ad-40ca-8908-bdae5d525977","chan":"stderr","logger":"task"}

@@ -1,0 +1,72 @@
+{"timestamp":"2025-09-01T06:06:25.032652","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-09-01T06:06:25.033070","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-09-01T06:06:25.608011Z","level":"info","event":"WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:26.252317Z","level":"error","event":"25/09/01 06:06:26 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"task"}
+{"timestamp":"2025-09-01T06:06:26.373368Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"task"}
+{"timestamp":"2025-09-01T06:06:26.373506Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"task"}
+{"timestamp":"2025-09-01T06:06:26.972080Z","level":"error","event":"25/09/01 06:06:26 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-09-01T06:06:28.453708Z","level":"info","event":"Iceberg SparkCatalog OK.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:28.746292Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:28.746410Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:28.746449Z","level":"info","event":"Current task name:install_spark","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:28.746500Z","level":"info","event":"Dag name:etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.271427Z","level":"info","event":"Iceberg SparkCatalog OK.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.271601Z","level":"info","event":"Spark session started.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.293372Z","level":"info","event":"spark.hadoop.fs.s3a.vectored.read.min.seek.size = 131072","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.293550Z","level":"info","event":"spark.hadoop.fs.s3a.access.key = admin","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.293628Z","level":"info","event":"spark.hadoop.fs.s3a.threads.max = 10","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.293685Z","level":"info","event":"spark.hadoop.fs.s3a.secret.key = admin12345","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.293741Z","level":"info","event":"spark.hadoop.fs.s3a.connection.ssl.enabled = false","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.293792Z","level":"info","event":"spark.hadoop.fs.s3a.path.style.access = true","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.293846Z","level":"info","event":"spark.hadoop.fs.s3a.connection.part.upload.timeout = 60000","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.293926Z","level":"info","event":"spark.app.initial.jar.urls = spark://d9ba5a2cb880:43243/jars/aws-java-sdk-bundle-1.12.787.jar,spark://d9ba5a2cb880:43243/jars/ojdbc11.jar,spark://d9ba5a2cb880:43243/jars/iceberg-spark-runtime-3.5_2.13-1.9.2.jar,spark://d9ba5a2cb880:43243/jars/hadoop-aws-3.3.4.jar,spark://d9ba5a2cb880:43243/jars/iceberg-aws-bundle-1.9.2.jar","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.293982Z","level":"info","event":"spark.hadoop.fs.s3a.aws.credentials.provider = org.apache.hadoop.fs.s3a.SimpleAWSCredentialsProvider","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294138Z","level":"info","event":"spark.driver.port = 43243","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294204Z","level":"info","event":"spark.hadoop.fs.s3a.attempts.maximum = 3","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294253Z","level":"info","event":"spark.app.name = BAITEST","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294288Z","level":"info","event":"spark.jars = /opt/spark/jars/hadoop-aws-3.3.4.jar,/opt/spark/jars/aws-java-sdk-bundle-1.12.787.jar,/opt/spark/jars/ojdbc11.jar,/opt/spark/jars/iceberg-spark-runtime-3.5_2.13-1.9.2.jar,/opt/spark/jars/iceberg-aws-bundle-1.9.2.jar","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294325Z","level":"info","event":"spark.sql.adaptive.coalescePartitions.enabled = false","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294357Z","level":"info","event":"spark.sql.catalog.local.type = hadoop","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294387Z","level":"info","event":"spark.hadoop.fs.s3a.connection.idle.time = 60000","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294417Z","level":"info","event":"spark.hadoop.fs.s3a.vectored.read.max.merged.size = 2097152","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294449Z","level":"info","event":"spark.app.id = local-1756706787041","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294481Z","level":"info","event":"spark.hadoop.fs.s3a.connection.establish.timeout = 5000","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294515Z","level":"info","event":"spark.serializer.objectStreamReset = 100","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294548Z","level":"info","event":"spark.master = local[*]","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294579Z","level":"info","event":"spark.sql.catalog.local.warehouse = s3a://warehouse/","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294609Z","level":"info","event":"spark.submit.deployMode = client","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294639Z","level":"info","event":"spark.sql.warehouse.dir = file:/opt/airflow/spark-warehouse","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294669Z","level":"info","event":"spark.sql.adaptive.enabled = false","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294703Z","level":"info","event":"spark.driver.host = d9ba5a2cb880","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294734Z","level":"info","event":"spark.app.submitTime = 1756706786360","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294765Z","level":"info","event":"spark.hadoop.fs.s3a.retry.limit = 5","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294795Z","level":"info","event":"spark.hadoop.fs.s3a.multipart.size = 104857600","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294825Z","level":"info","event":"spark.repl.local.jars = file:///opt/spark/jars/hadoop-aws-3.3.4.jar,file:///opt/spark/jars/aws-java-sdk-bundle-1.12.787.jar,file:///opt/spark/jars/ojdbc11.jar,file:///opt/spark/jars/iceberg-spark-runtime-3.5_2.13-1.9.2.jar,file:///opt/spark/jars/iceberg-aws-bundle-1.9.2.jar","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294883Z","level":"info","event":"spark.driver.extraJavaOptions = -Djava.net.preferIPv6Addresses=false -XX:+IgnoreUnrecognizedVMOptions --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED --add-opens=java.base/java.lang.reflect=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.nio=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.base/jdk.internal.ref=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-opens=java.base/sun.nio.cs=ALL-UNNAMED --add-opens=java.base/sun.security.action=ALL-UNNAMED --add-opens=java.base/sun.util.calendar=ALL-UNNAMED --add-opens=java.security.jgss/sun.security.krb5=ALL-UNNAMED -Djdk.reflect.useDirectMethodHandle=false","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294923Z","level":"info","event":"spark.hadoop.fs.s3a.connection.maximum = 15","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294955Z","level":"info","event":"spark.executor.extraClassPath = /opt/spark/jars/*","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.294985Z","level":"info","event":"spark.hadoop.fs.s3a.socket.send.buffer = 65536","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295015Z","level":"info","event":"spark.executor.id = driver","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295046Z","level":"info","event":"spark.hadoop.fs.s3a.connection.timeout = 60000","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295074Z","level":"info","event":"spark.hadoop.fs.s3a.retry.interval = 500","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295104Z","level":"info","event":"spark.sql.extensions = org.apache.iceberg.spark.extensions.IcebergSparkSessionExtensions","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295133Z","level":"info","event":"spark.driver.extraClassPath = /opt/spark/jars/*","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295161Z","level":"info","event":"spark.hadoop.fs.s3a.socket.recv.buffer = 65536","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295190Z","level":"info","event":"spark.hadoop.fs.s3a.impl = org.apache.hadoop.fs.s3a.S3AFileSystem","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295219Z","level":"info","event":"spark.sql.catalog.local = org.apache.iceberg.spark.SparkCatalog","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295249Z","level":"info","event":"spark.rdd.compress = True","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295279Z","level":"info","event":"spark.hadoop.fs.s3a.threads.keepalivetime = 60000","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295310Z","level":"info","event":"spark.executor.extraJavaOptions = -Djava.net.preferIPv6Addresses=false -XX:+IgnoreUnrecognizedVMOptions --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED --add-opens=java.base/java.lang.reflect=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.nio=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.base/jdk.internal.ref=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-opens=java.base/sun.nio.cs=ALL-UNNAMED --add-opens=java.base/sun.security.action=ALL-UNNAMED --add-opens=java.base/sun.util.calendar=ALL-UNNAMED --add-opens=java.security.jgss/sun.security.krb5=ALL-UNNAMED -Djdk.reflect.useDirectMethodHandle=false","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295341Z","level":"info","event":"spark.hadoop.fs.s3a.multipart.purge.age = 86400","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295370Z","level":"info","event":"spark.submit.pyFiles =","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295397Z","level":"info","event":"spark.hadoop.fs.s3a.endpoint = http://minio:9000","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295425Z","level":"info","event":"spark.app.startTime = 1756706786468","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295453Z","level":"info","event":"spark.ui.showConsoleProgress = true","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295482Z","level":"info","event":"spark.hadoop.fs.s3a.fast.upload = true","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295510Z","level":"info","event":"spark.hadoop.fs.s3a.impl.disable.cache = true","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295539Z","level":"info","event":"spark.hadoop.fs.s3a.connection.request.timeout = 60000","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.295579Z","level":"info","event":"Spark session finished.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.835425","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-09-01T06:06:29.856365Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.856488Z","level":"info","event":" Previous state of the Task instance: running","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-01T06:06:29.856527Z","level":"info","event":"Task operator:<Task(PythonOperator): install_spark>","chan":"stdout","logger":"task"}

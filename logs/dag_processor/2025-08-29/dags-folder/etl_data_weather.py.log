@@ -1,0 +1,465 @@
+{"timestamp":"2025-08-29T02:48:26.301527","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:48:29.068223Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:48:30.268163Z","level":"error","event":"25/08/29 02:48:30 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:48:30.598425Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:48:30.598497Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:48:30.598556Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:48:32.599037Z","level":"error","event":"25/08/29 02:48:32 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:49:07.441372","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:49:07.889896Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:49:11.472370Z","level":"error","event":"25/08/29 02:49:11 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:49:12.130198Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:49:12.150102Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:49:12.150405Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:49:13.721602Z","level":"error","event":"25/08/29 02:49:13 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:49:50.912309","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:49:51.236804Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:49:52.964500Z","level":"error","event":"25/08/29 02:49:52 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:49:53.176680Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:49:53.182627Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:49:53.182978Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:50:28.505613","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:50:28.806327Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:50:30.192226Z","level":"error","event":"25/08/29 02:50:30 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:50:30.364601Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:50:30.364754Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:50:30.364797Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:51:05.289752","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:51:05.553280Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:51:06.826658Z","level":"error","event":"25/08/29 02:51:06 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:51:06.979589Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:51:06.979628Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:51:06.979659Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:51:41.643805","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:51:42.197025Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:51:43.890862Z","level":"error","event":"25/08/29 02:51:43 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:51:44.088907Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:51:44.095867Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:51:44.096162Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:51:45.074192Z","level":"error","event":"25/08/29 02:51:45 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:52:18.272808","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:52:18.736416Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:52:19.867626Z","level":"error","event":"25/08/29 02:52:19 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:52:20.023205Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:52:20.026375Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:52:20.026508Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:52:20.742805Z","level":"error","event":"25/08/29 02:52:20 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:52:54.288430","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:52:55.720198Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:53:00.904343Z","level":"error","event":"25/08/29 02:53:00 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:53:01.397208Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:53:01.402822Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:53:01.405446Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:53:42.908615","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:53:43.456188Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:53:45.109799Z","level":"error","event":"25/08/29 02:53:45 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:53:45.354960Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:53:45.359520Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:53:45.359697Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:53:46.233921Z","level":"error","event":"25/08/29 02:53:46 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:54:20.248139","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:54:20.556648Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:54:21.962793Z","level":"error","event":"25/08/29 02:54:21 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:54:22.131142Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:54:22.134681Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:54:22.134813Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:54:22.994957Z","level":"error","event":"25/08/29 02:54:22 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:54:56.642195","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:54:56.931975Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:54:58.461376Z","level":"error","event":"25/08/29 02:54:58 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:54:58.643250Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:54:58.649037Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:54:58.649186Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:55:33.535368","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:55:33.835614Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:55:35.099337Z","level":"error","event":"25/08/29 02:55:35 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:55:35.271743Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:55:35.276130Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:55:35.276242Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:55:36.124261Z","level":"error","event":"25/08/29 02:55:36 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:56:10.748400","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:56:11.037976Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:56:12.326403Z","level":"error","event":"25/08/29 02:56:12 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:56:12.516823Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:56:12.521214Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:56:12.521409Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:56:47.735679","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:56:48.081627Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:56:49.980894Z","level":"error","event":"25/08/29 02:56:49 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:56:50.139227Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:56:50.145037Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:56:50.145219Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:57:25.364385","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:57:25.704549Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:57:27.541316Z","level":"error","event":"25/08/29 02:57:27 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:57:27.786471Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:57:27.792607Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:57:27.792810Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:59:12.590809","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:59:15.221828Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:59:16.537855Z","level":"error","event":"25/08/29 02:59:16 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:59:16.860260Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:59:16.860597Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:59:16.860687Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:59:53.088978","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T02:59:53.349296Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:59:54.456033Z","level":"error","event":"25/08/29 02:59:54 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:59:54.602175Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:59:54.607583Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T02:59:54.607741Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:00:28.763961","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:00:29.026015Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:00:30.090974Z","level":"error","event":"25/08/29 03:00:30 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:00:30.248546Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:00:30.253366Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:00:30.253536Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:01:04.727304","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:01:05.122349Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:01:06.909672Z","level":"error","event":"25/08/29 03:01:06 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:01:07.071996Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:01:07.076182Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:01:07.076314Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:01:42.141048","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:01:42.437830Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:01:43.893677Z","level":"error","event":"25/08/29 03:01:43 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:01:44.102920Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:01:44.108851Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:01:44.109065Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:02:18.869488","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:02:19.143302Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:02:20.288605Z","level":"error","event":"25/08/29 03:02:20 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:02:20.444533Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:02:20.447211Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:02:20.447311Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:02:21.090560Z","level":"error","event":"25/08/29 03:02:21 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:02:54.564696","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:02:54.902775Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:02:56.548368Z","level":"error","event":"25/08/29 03:02:56 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:02:56.740381Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:02:56.744030Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:02:56.744184Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:02:57.900836Z","level":"error","event":"25/08/29 03:02:57 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:03:32.297216","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:03:32.604979Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:03:33.930619Z","level":"error","event":"25/08/29 03:03:33 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:03:34.120706Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:03:34.120748Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:03:34.120807Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:04:09.105078","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:04:09.387766Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:04:10.609322Z","level":"error","event":"25/08/29 03:04:10 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:04:10.785496Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:04:10.790579Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:04:10.790759Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:04:11.669202Z","level":"error","event":"25/08/29 03:04:11 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:04:44.855898","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:04:45.357660Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:04:46.526654Z","level":"error","event":"25/08/29 03:04:46 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:04:46.718174Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:04:46.721378Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:04:46.721491Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:04:47.477830Z","level":"error","event":"25/08/29 03:04:47 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:05:21.434516","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:05:21.913300Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:05:23.310681Z","level":"error","event":"25/08/29 03:05:23 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:05:23.479173Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:05:23.486862Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:05:23.487035Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:05:57.508540","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:05:57.843860Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:05:59.796787Z","level":"error","event":"25/08/29 03:05:59 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:05:59.971613Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:05:59.971652Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:05:59.971685Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:06:00.788540Z","level":"error","event":"25/08/29 03:06:00 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:06:35.199224","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:06:35.477252Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:06:36.792748Z","level":"error","event":"25/08/29 03:06:36 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:06:36.970308Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:06:36.973475Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:06:36.973600Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:06:37.715520Z","level":"error","event":"25/08/29 03:06:37 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:08:29.117767","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:08:31.396716Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:08:32.241171Z","level":"error","event":"25/08/29 03:08:32 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:08:32.548828Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:08:32.553826Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:08:32.554007Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:08:33.987083Z","level":"error","event":"25/08/29 03:08:33 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:09:09.010484","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:09:09.383209Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:09:11.098536Z","level":"error","event":"25/08/29 03:09:11 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:09:11.324809Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:09:11.324850Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:09:11.324904Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:09:45.895259","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:09:46.273045Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:09:48.667966Z","level":"error","event":"25/08/29 03:09:48 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:09:48.969323Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:09:48.995476Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:09:48.995879Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:14:18.628857","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:14:20.797517Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:14:21.455935Z","level":"error","event":"25/08/29 03:14:21 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:14:21.725932Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:14:21.744689Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:14:21.744867Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:14:23.144012Z","level":"error","event":"25/08/29 03:14:23 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:14:58.632938","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:14:58.936172Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:15:00.002738Z","level":"error","event":"25/08/29 03:15:00 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:15:00.161802Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:15:00.164446Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:15:00.164548Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:15:00.847745Z","level":"error","event":"25/08/29 03:15:00 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:15:34.104183","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:15:34.410228Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:15:35.874474Z","level":"error","event":"25/08/29 03:15:35 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:15:36.114142Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:15:36.114215Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:15:36.114271Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:16:12.590589","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:16:12.988902Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:16:14.767562Z","level":"error","event":"25/08/29 03:16:14 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:16:14.989440Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:16:14.996895Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:16:14.997161Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:16:16.097838Z","level":"error","event":"25/08/29 03:16:16 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:16:51.372468","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:16:51.744545Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:16:53.373597Z","level":"error","event":"25/08/29 03:16:53 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:16:53.596005Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:16:53.603776Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:16:53.604200Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:17:28.710993","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:17:29.012058Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:17:30.325777Z","level":"error","event":"25/08/29 03:17:30 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:17:30.518068Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:17:30.523580Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:17:30.523776Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:18:05.988627","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:18:06.266920Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:18:07.540207Z","level":"error","event":"25/08/29 03:18:07 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:18:07.683693Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:18:07.688051Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:18:07.688185Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:18:42.067335","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:18:42.508566Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:18:43.646233Z","level":"error","event":"25/08/29 03:18:43 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:18:43.798882Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:18:43.801660Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:18:43.801775Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:22:24.380424","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:22:26.774716Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:22:27.167078Z","level":"error","event":"25/08/29 03:22:27 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:22:27.540219Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:22:27.540491Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:22:27.540577Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:23:04.073274","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:23:05.315570Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:23:10.435480Z","level":"error","event":"25/08/29 03:23:10 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:23:11.159993Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:23:11.160711Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:23:11.160856Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:23:50.867920","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:23:51.186324Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:23:53.096994Z","level":"error","event":"25/08/29 03:23:53 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:23:53.318843Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:23:53.326266Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:23:53.326569Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:24:28.742763","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:24:29.068309Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:24:30.685771Z","level":"error","event":"25/08/29 03:24:30 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:24:30.869379Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:24:30.874850Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:24:30.875015Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:25:07.005335","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:25:07.326734Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:25:08.748539Z","level":"error","event":"25/08/29 03:25:08 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:25:08.949559Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:25:08.959193Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:25:08.959436Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:25:44.515546","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:25:44.848056Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:25:46.485192Z","level":"error","event":"25/08/29 03:25:46 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:25:46.705743Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:25:46.710714Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:25:46.710950Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:26:21.523501","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:26:21.824331Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:26:23.363176Z","level":"error","event":"25/08/29 03:26:23 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:26:23.539939Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:26:23.548197Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:26:23.548332Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:26:24.464064Z","level":"error","event":"25/08/29 03:26:24 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:26:58.403395","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:26:58.710969Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:27:00.144639Z","level":"error","event":"25/08/29 03:27:00 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:27:00.349669Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:27:00.355829Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:27:00.356095Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:27:35.738099","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:27:36.272908Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:27:38.106055Z","level":"error","event":"25/08/29 03:27:38 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:27:38.347762Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:27:38.353261Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:27:38.353416Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:27:39.448232Z","level":"error","event":"25/08/29 03:27:39 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:28:13.752500","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:28:14.407492Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:28:16.199551Z","level":"error","event":"25/08/29 03:28:16 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:28:16.427180Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:28:16.436556Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:28:16.436753Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:28:51.506497","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:28:52.038814Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:28:53.349480Z","level":"error","event":"25/08/29 03:28:53 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:28:53.566679Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:28:53.572592Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:28:53.572777Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:29:28.740370","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:29:29.011716Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:29:30.177839Z","level":"error","event":"25/08/29 03:29:30 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:29:30.322561Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:29:30.325801Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:29:30.325946Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:29:31.059555Z","level":"error","event":"25/08/29 03:29:31 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:30:04.709575","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:30:05.096858Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:30:06.926562Z","level":"error","event":"25/08/29 03:30:06 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:30:07.252758Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:30:07.263413Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:30:07.263772Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:30:42.170798","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:30:42.449258Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:30:43.996406Z","level":"error","event":"25/08/29 03:30:43 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:30:44.177484Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:30:44.180414Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:30:44.180525Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:30:44.922501Z","level":"error","event":"25/08/29 03:30:44 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:31:18.954050","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:31:19.249664Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:31:20.751169Z","level":"error","event":"25/08/29 03:31:20 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:31:20.932961Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:31:20.937465Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:31:20.937578Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:31:21.697362Z","level":"error","event":"25/08/29 03:31:21 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:31:55.730947","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:31:56.077285Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:31:57.915597Z","level":"error","event":"25/08/29 03:31:57 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:31:58.147739Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:31:58.147812Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:31:58.147905Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:32:33.100590","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:32:33.432362Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:32:34.607432Z","level":"error","event":"25/08/29 03:32:34 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:32:34.775501Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:32:34.775567Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:32:34.775625Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:32:35.590676Z","level":"error","event":"25/08/29 03:32:35 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:33:08.935131","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:33:09.326114Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:33:10.629926Z","level":"error","event":"25/08/29 03:33:10 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:33:10.791447Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:33:10.791510Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:33:10.791573Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:33:11.707310Z","level":"error","event":"25/08/29 03:33:11 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:33:46.201925","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:33:46.488010Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:33:47.916845Z","level":"error","event":"25/08/29 03:33:47 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:33:48.077077Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:33:48.081497Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:33:48.081679Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:33:49.134579Z","level":"error","event":"25/08/29 03:33:49 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:34:23.054191","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:34:23.378096Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:34:24.536040Z","level":"error","event":"25/08/29 03:34:24 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:34:24.697381Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:34:24.701809Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:34:24.701972Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:34:25.574373Z","level":"error","event":"25/08/29 03:34:25 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:34:59.519678","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:34:59.824447Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:35:01.241029Z","level":"error","event":"25/08/29 03:35:01 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:35:01.410788Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:35:01.413860Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:35:01.414000Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:35:36.135443","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:35:36.429560Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:35:37.710813Z","level":"error","event":"25/08/29 03:35:37 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:35:37.904305Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:35:37.907858Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:35:37.908006Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:35:38.739422Z","level":"error","event":"25/08/29 03:35:38 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:36:12.452368","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:36:12.727573Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:36:13.810586Z","level":"error","event":"25/08/29 03:36:13 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:36:13.961090Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:36:13.965804Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:36:13.965992Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:36:14.656005Z","level":"error","event":"25/08/29 03:36:14 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:36:48.045739","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:36:48.341701Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:36:49.738477Z","level":"error","event":"25/08/29 03:36:49 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:36:49.981524Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:36:49.987429Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:36:49.987616Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:37:24.467223","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:37:24.751022Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:37:25.958110Z","level":"error","event":"25/08/29 03:37:25 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:37:26.144321Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:37:26.151312Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:37:26.151494Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:38:01.305639","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:38:01.588230Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:38:02.675204Z","level":"error","event":"25/08/29 03:38:02 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:38:02.823266Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:38:02.828391Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:38:02.828556Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:38:37.249831","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:38:37.525801Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:38:38.561746Z","level":"error","event":"25/08/29 03:38:38 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:38:38.722661Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:38:38.727762Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:38:38.727882Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:38:39.448724Z","level":"error","event":"25/08/29 03:38:39 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:39:13.215554","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:39:13.488614Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:39:14.623378Z","level":"error","event":"25/08/29 03:39:14 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:39:14.767168Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:39:14.771649Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:39:14.771815Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:39:15.403934Z","level":"error","event":"25/08/29 03:39:15 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:39:48.459829","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:39:48.720130Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:39:49.761865Z","level":"error","event":"25/08/29 03:39:49 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:39:49.910020Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:39:49.914164Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:39:49.914283Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:40:24.797238","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:40:25.096505Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:40:26.357625Z","level":"error","event":"25/08/29 03:40:26 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:40:26.539144Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:40:26.545915Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:40:26.546224Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:41:00.946701","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:41:01.221520Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:41:02.412418Z","level":"error","event":"25/08/29 03:41:02 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:41:02.554156Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:41:02.559053Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:41:02.559163Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:41:03.191665Z","level":"error","event":"25/08/29 03:41:03 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:41:36.715013","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:41:36.987282Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:41:38.084400Z","level":"error","event":"25/08/29 03:41:38 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:41:38.231552Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:41:38.234863Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:41:38.234994Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:41:38.916772Z","level":"error","event":"25/08/29 03:41:38 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:42:12.533579","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_data_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T03:42:13.035277Z","level":"error","event":"WARNING: Using incubator modules: jdk.incubator.vector","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:42:14.082822Z","level":"error","event":"25/08/29 03:42:14 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:42:14.228620Z","level":"error","event":"Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:42:14.233186Z","level":"error","event":"Setting default log level to \"WARN\".","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:42:14.233351Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","chan":"stderr","logger":"processor"}
+{"timestamp":"2025-08-29T03:42:14.883608Z","level":"error","event":"25/08/29 03:42:14 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.","chan":"stderr","logger":"processor"}
