@@ -34,6 +34,10 @@ Xem trino UI trên web:
 
 <img width="1225" height="956" alt="image" src="https://github.com/user-attachments/assets/bdccdfe7-d400-4a86-89e8-1a4586067d93" />
 
+Tổng quát:
+
+<img width="768" height="137" alt="iceberg_nessie_flow_fixed" src="https://github.com/user-attachments/assets/a92ddf6e-8525-4b13-9683-0a759ead4e9a" />
+
 # CÀI ĐẶT
 
 Tải instantclient-basic-linux.x64-23.8.0.25.04.zip
