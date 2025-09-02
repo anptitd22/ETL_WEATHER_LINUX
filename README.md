@@ -12,7 +12,7 @@ Dùng trino kết nối truy vấn với iceberg thông qua nessie (lưu trữ d
 
 Tổng quát:
 
-<img width="547" height="623" alt="image" src="https://github.com/user-attachments/assets/6eeed97e-ac87-4c22-a717-41812d2dba21" />
+<img width="547" height="623" alt="image" src="https://github.com/user-attachments/assets/d39695ce-e9a0-47d8-90ec-efc23872259a" />
 
 Ý tưởng:
 
